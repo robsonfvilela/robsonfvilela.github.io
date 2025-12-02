@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal on Robson</title>
+    <link>https://robsonfvilela.github.io/tags/personal/</link>
+    <description>Recent content in Personal on Robson</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 19 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://robsonfvilela.github.io/tags/personal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>.config</title>
+      <link>https://robsonfvilela.github.io/config/</link>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://robsonfvilela.github.io/config/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>https://robsonfvilela.github.io/about/</link>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://robsonfvilela.github.io/about/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bem-vindo!</title>
+      <link>https://robsonfvilela.github.io/</link>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://robsonfvilela.github.io/</guid>
+      <description>&lt;p&gt;Bem-vindo!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Comandos</title>
+      <link>https://robsonfvilela.github.io/terminal/terminal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://robsonfvilela.github.io/terminal/terminal/</guid>
+      <description>&lt;h2 id=&#34;comando-divertidos&#34;&gt;Comando divertidos&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>GIT</title>
+      <link>https://robsonfvilela.github.io/terminal/git/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://robsonfvilela.github.io/terminal/git/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kitty</title>
+      <link>https://robsonfvilela.github.io/config/kitty/kitty/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://robsonfvilela.github.io/config/kitty/kitty/</guid>
+      <description>&lt;p&gt;Arquivo de configuração do terminal Kitty.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Linux</title>
+      <link>https://robsonfvilela.github.io/linux/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://robsonfvilela.github.io/linux/</guid>
+      <description>&lt;h2 id=&#34;linux&#34;&gt;Linux&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>NeoVim</title>
+      <link>https://robsonfvilela.github.io/config/nvim/nvim/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://robsonfvilela.github.io/config/nvim/nvim/</guid>
+      <description>&lt;p&gt;Arquivo de configuração do Neovim, com LazyVim e algumas customizações.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ZSH</title>
+      <link>https://robsonfvilela.github.io/config/zsh/zshrc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://robsonfvilela.github.io/config/zsh/zshrc/</guid>
+      <description>&lt;p&gt;Arquivo de configuração do ZSH.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
