@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Linux on Robson</title>
-    <link>https://robsonfvilela.github.io/linux/</link>
+    <link>https://robsonfvilela.github.io/tags/linux/</link>
     <description>Recent content in Linux on Robson</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="https://robsonfvilela.github.io/linux/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://robsonfvilela.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Configuração do Manjaro</title>
       <link>https://robsonfvilela.github.io/linux/manjaro_conf/</link>
