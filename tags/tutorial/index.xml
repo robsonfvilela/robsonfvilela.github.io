@@ -2,17 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tutorial :: Tag :: Robson</title>
-    <link>https://robsonfvilela.github.io/tags/tutorial/index.html</link>
+    <link>http://localhost:1313/tags/tutorial/index.html</link>
     <description></description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="https://robsonfvilela.github.io/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Vim Keys</title>
-      <link>https://robsonfvilela.github.io/terminal/vim-keys/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://robsonfvilela.github.io/terminal/vim-keys/index.html</guid>
-      <description></description>
-    </item>
+    <atom:link href="http://localhost:1313/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

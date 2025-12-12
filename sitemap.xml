@@ -1,11 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://robsonfvilela.github.io/tags/about/index.html</loc>
+    <lastmod>2025-11-20T00:37:45-03:00</lastmod>
+  </url>
+  <url>
+    <loc>https://robsonfvilela.github.io/index.html</loc>
+    <lastmod>2025-11-20T00:37:45-03:00</lastmod>
+  </url>
+  <url>
     <loc>https://robsonfvilela.github.io/meu-terceiro-post/index.html</loc>
     <lastmod>2025-11-20T00:37:45-03:00</lastmod>
   </url>
   <url>
+    <loc>https://robsonfvilela.github.io/tags/personal/index.html</loc>
+    <lastmod>2025-11-20T00:37:45-03:00</lastmod>
+  </url>
+  <url>
     <loc>https://robsonfvilela.github.io/posts/index.html</loc>
+    <lastmod>2025-11-20T00:37:45-03:00</lastmod>
+  </url>
+  <url>
+    <loc>https://robsonfvilela.github.io/tags/index.html</loc>
     <lastmod>2025-11-20T00:37:45-03:00</lastmod>
   </url>
   <url>
@@ -21,28 +37,12 @@
     <lastmod>2025-11-19T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>https://robsonfvilela.github.io/tags/about/index.html</loc>
-    <lastmod>2025-11-19T00:00:00+00:00</lastmod>
-  </url>
-  <url>
     <loc>https://robsonfvilela.github.io/about/index.html</loc>
     <lastmod>2025-11-19T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>https://robsonfvilela.github.io/tags/config/index.html</loc>
     <lastmod>2025-11-19T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://robsonfvilela.github.io/tags/personal/index.html</loc>
-    <lastmod>2025-11-19T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://robsonfvilela.github.io/tags/index.html</loc>
-    <lastmod>2025-11-19T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://robsonfvilela.github.io/index.html</loc>
-    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>https://robsonfvilela.github.io/tags/hugo/index.html</loc>
@@ -61,6 +61,9 @@
     <lastmod>2024-06-20T00:00:00+00:00</lastmod>
   </url>
   <url>
+    <loc>https://robsonfvilela.github.io/tags/app/index.html</loc>
+  </url>
+  <url>
     <loc>https://robsonfvilela.github.io/categories/index.html</loc>
   </url>
   <url>
@@ -71,9 +74,6 @@
   </url>
   <url>
     <loc>https://robsonfvilela.github.io/macos/configuracao_mac/index.html</loc>
-  </url>
-  <url>
-    <loc>https://robsonfvilela.github.io/tags/fun/index.html</loc>
   </url>
   <url>
     <loc>https://robsonfvilela.github.io/tags/git/index.html</loc>
@@ -100,10 +100,10 @@
     <loc>https://robsonfvilela.github.io/macos/index.html</loc>
   </url>
   <url>
-    <loc>https://robsonfvilela.github.io/config/nvim/nvim/index.html</loc>
+    <loc>https://robsonfvilela.github.io/tags/manjaro/index.html</loc>
   </url>
   <url>
-    <loc>https://robsonfvilela.github.io/tags/tutorial/index.html</loc>
+    <loc>https://robsonfvilela.github.io/config/nvim/nvim/index.html</loc>
   </url>
   <url>
     <loc>https://robsonfvilela.github.io/tags/vim/index.html</loc>

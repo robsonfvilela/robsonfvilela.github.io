@@ -6,13 +6,20 @@
     <description></description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Nov 2025 00:37:45 -0300</lastBuildDate>
     <atom:link href="https://robsonfvilela.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tag :: About</title>
       <link>https://robsonfvilela.github.io/tags/about/index.html</link>
-      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 20 Nov 2025 00:37:45 -0300</pubDate>
       <guid>https://robsonfvilela.github.io/tags/about/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag :: Personal</title>
+      <link>https://robsonfvilela.github.io/tags/personal/index.html</link>
+      <pubDate>Thu, 20 Nov 2025 00:37:45 -0300</pubDate>
+      <guid>https://robsonfvilela.github.io/tags/personal/index.html</guid>
       <description></description>
     </item>
     <item>
@@ -20,13 +27,6 @@
       <link>https://robsonfvilela.github.io/tags/config/index.html</link>
       <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://robsonfvilela.github.io/tags/config/index.html</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tag :: Personal</title>
-      <link>https://robsonfvilela.github.io/tags/personal/index.html</link>
-      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://robsonfvilela.github.io/tags/personal/index.html</guid>
       <description></description>
     </item>
     <item>
@@ -44,10 +44,10 @@
       <description></description>
     </item>
     <item>
-      <title>Tag :: Fun</title>
-      <link>https://robsonfvilela.github.io/tags/fun/index.html</link>
+      <title>Tag :: App</title>
+      <link>https://robsonfvilela.github.io/tags/app/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://robsonfvilela.github.io/tags/fun/index.html</guid>
+      <guid>https://robsonfvilela.github.io/tags/app/index.html</guid>
       <description></description>
     </item>
     <item>
@@ -72,10 +72,10 @@
       <description></description>
     </item>
     <item>
-      <title>Tag :: Tutorial</title>
-      <link>https://robsonfvilela.github.io/tags/tutorial/index.html</link>
+      <title>Tag :: Manjaro</title>
+      <link>https://robsonfvilela.github.io/tags/manjaro/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://robsonfvilela.github.io/tags/tutorial/index.html</guid>
+      <guid>https://robsonfvilela.github.io/tags/manjaro/index.html</guid>
       <description></description>
     </item>
     <item>
