@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Git on Robson</title>
-    <link>https://robsonfvilela.github.io/tags/git/</link>
-    <description>Recent content in Git on Robson</description>
+    <title>Git :: Tag :: Robson</title>
+    <link>https://robsonfvilela.github.io/tags/git/index.html</link>
+    <description></description>
     <generator>Hugo</generator>
     <language>en</language>
     <atom:link href="https://robsonfvilela.github.io/tags/git/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GIT</title>
-      <link>https://robsonfvilela.github.io/terminal/git/</link>
+      <link>https://robsonfvilela.github.io/terminal/git/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://robsonfvilela.github.io/terminal/git/</guid>
+      <guid>https://robsonfvilela.github.io/terminal/git/index.html</guid>
       <description></description>
     </item>
   </channel>

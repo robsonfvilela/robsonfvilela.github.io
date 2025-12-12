@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About on Robson</title>
-    <link>https://robsonfvilela.github.io/tags/about/</link>
-    <description>Recent content in About on Robson</description>
+    <title>About :: Tag :: Robson</title>
+    <link>https://robsonfvilela.github.io/tags/about/index.html</link>
+    <description></description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 19 Nov 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://robsonfvilela.github.io/tags/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>https://robsonfvilela.github.io/about/</link>
+      <link>https://robsonfvilela.github.io/about/index.html</link>
       <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://robsonfvilela.github.io/about/</guid>
+      <guid>https://robsonfvilela.github.io/about/index.html</guid>
       <description></description>
     </item>
     <item>
       <title>Bem-vindo!</title>
-      <link>https://robsonfvilela.github.io/</link>
+      <link>https://robsonfvilela.github.io/index.html</link>
       <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://robsonfvilela.github.io/</guid>
-      <description>&lt;p&gt;Bem-vindo!&lt;/p&gt;</description>
+      <guid>https://robsonfvilela.github.io/index.html</guid>
+      <description>Bem-vindo!</description>
     </item>
     <item>
       <title>Linux</title>
-      <link>https://robsonfvilela.github.io/linux/</link>
+      <link>https://robsonfvilela.github.io/linux/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://robsonfvilela.github.io/linux/</guid>
-      <description>&lt;h2 id=&#34;linux&#34;&gt;Linux&lt;/h2&gt;</description>
+      <guid>https://robsonfvilela.github.io/linux/index.html</guid>
+      <description>Linux</description>
     </item>
   </channel>
 </rss>

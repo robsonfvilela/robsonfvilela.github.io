@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>.config on Robson</title>
-    <link>https://robsonfvilela.github.io/config/</link>
-    <description>Recent content in .config on Robson</description>
+    <title>.config :: Robson</title>
+    <link>https://robsonfvilela.github.io/config/index.html</link>
+    <description></description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://robsonfvilela.github.io/config/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kitty</title>
-      <link>https://robsonfvilela.github.io/config/kitty/kitty/</link>
+      <link>https://robsonfvilela.github.io/config/kitty/kitty/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://robsonfvilela.github.io/config/kitty/kitty/</guid>
-      <description>&lt;p&gt;Arquivo de configuração do terminal Kitty.&lt;/p&gt;</description>
+      <guid>https://robsonfvilela.github.io/config/kitty/kitty/index.html</guid>
+      <description>Arquivo de configuração do terminal Kitty.</description>
     </item>
     <item>
       <title>NeoVim</title>
-      <link>https://robsonfvilela.github.io/config/nvim/nvim/</link>
+      <link>https://robsonfvilela.github.io/config/nvim/nvim/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://robsonfvilela.github.io/config/nvim/nvim/</guid>
-      <description>&lt;p&gt;Arquivo de configuração do Neovim, com LazyVim e algumas customizações.&lt;/p&gt;</description>
+      <guid>https://robsonfvilela.github.io/config/nvim/nvim/index.html</guid>
+      <description>Arquivo de configuração do Neovim, com LazyVim e algumas customizações.</description>
     </item>
     <item>
       <title>ZSH</title>
-      <link>https://robsonfvilela.github.io/config/zsh/zshrc/</link>
+      <link>https://robsonfvilela.github.io/config/zsh/zshrc/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://robsonfvilela.github.io/config/zsh/zshrc/</guid>
-      <description>&lt;p&gt;Arquivo de configuração do ZSH.&lt;/p&gt;</description>
+      <guid>https://robsonfvilela.github.io/config/zsh/zshrc/index.html</guid>
+      <description>Arquivo de configuração do ZSH.</description>
     </item>
   </channel>
 </rss>

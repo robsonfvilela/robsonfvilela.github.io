@@ -1,88 +1,88 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Robson</title>
-    <link>https://robsonfvilela.github.io/tags/</link>
-    <description>Recent content in Tags on Robson</description>
+    <title>Tags :: Robson</title>
+    <link>https://robsonfvilela.github.io/tags/index.html</link>
+    <description></description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 19 Nov 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://robsonfvilela.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
-      <link>https://robsonfvilela.github.io/tags/about/</link>
+      <title>Tag :: About</title>
+      <link>https://robsonfvilela.github.io/tags/about/index.html</link>
       <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://robsonfvilela.github.io/tags/about/</guid>
+      <guid>https://robsonfvilela.github.io/tags/about/index.html</guid>
       <description></description>
     </item>
     <item>
-      <title>Config</title>
-      <link>https://robsonfvilela.github.io/tags/config/</link>
+      <title>Tag :: Config</title>
+      <link>https://robsonfvilela.github.io/tags/config/index.html</link>
       <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://robsonfvilela.github.io/tags/config/</guid>
+      <guid>https://robsonfvilela.github.io/tags/config/index.html</guid>
       <description></description>
     </item>
     <item>
-      <title>Personal</title>
-      <link>https://robsonfvilela.github.io/tags/personal/</link>
+      <title>Tag :: Personal</title>
+      <link>https://robsonfvilela.github.io/tags/personal/index.html</link>
       <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://robsonfvilela.github.io/tags/personal/</guid>
+      <guid>https://robsonfvilela.github.io/tags/personal/index.html</guid>
       <description></description>
     </item>
     <item>
-      <title>Hugo</title>
-      <link>https://robsonfvilela.github.io/tags/hugo/</link>
+      <title>Tag :: Hugo</title>
+      <link>https://robsonfvilela.github.io/tags/hugo/index.html</link>
       <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://robsonfvilela.github.io/tags/hugo/</guid>
+      <guid>https://robsonfvilela.github.io/tags/hugo/index.html</guid>
       <description></description>
     </item>
     <item>
-      <title>Terminal</title>
-      <link>https://robsonfvilela.github.io/tags/terminal/</link>
+      <title>Tag :: Terminal</title>
+      <link>https://robsonfvilela.github.io/tags/terminal/index.html</link>
       <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://robsonfvilela.github.io/tags/terminal/</guid>
+      <guid>https://robsonfvilela.github.io/tags/terminal/index.html</guid>
       <description></description>
     </item>
     <item>
-      <title>Fun</title>
-      <link>https://robsonfvilela.github.io/tags/fun/</link>
+      <title>Tag :: Fun</title>
+      <link>https://robsonfvilela.github.io/tags/fun/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://robsonfvilela.github.io/tags/fun/</guid>
+      <guid>https://robsonfvilela.github.io/tags/fun/index.html</guid>
       <description></description>
     </item>
     <item>
-      <title>Git</title>
-      <link>https://robsonfvilela.github.io/tags/git/</link>
+      <title>Tag :: Git</title>
+      <link>https://robsonfvilela.github.io/tags/git/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://robsonfvilela.github.io/tags/git/</guid>
+      <guid>https://robsonfvilela.github.io/tags/git/index.html</guid>
       <description></description>
     </item>
     <item>
-      <title>Linux</title>
-      <link>https://robsonfvilela.github.io/tags/linux/</link>
+      <title>Tag :: Linux</title>
+      <link>https://robsonfvilela.github.io/tags/linux/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://robsonfvilela.github.io/tags/linux/</guid>
+      <guid>https://robsonfvilela.github.io/tags/linux/index.html</guid>
       <description></description>
     </item>
     <item>
-      <title>Mac</title>
-      <link>https://robsonfvilela.github.io/tags/mac/</link>
+      <title>Tag :: Mac</title>
+      <link>https://robsonfvilela.github.io/tags/mac/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://robsonfvilela.github.io/tags/mac/</guid>
+      <guid>https://robsonfvilela.github.io/tags/mac/index.html</guid>
       <description></description>
     </item>
     <item>
-      <title>Tutorial</title>
-      <link>https://robsonfvilela.github.io/tags/tutorial/</link>
+      <title>Tag :: Tutorial</title>
+      <link>https://robsonfvilela.github.io/tags/tutorial/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://robsonfvilela.github.io/tags/tutorial/</guid>
+      <guid>https://robsonfvilela.github.io/tags/tutorial/index.html</guid>
       <description></description>
     </item>
     <item>
-      <title>Vim</title>
-      <link>https://robsonfvilela.github.io/tags/vim/</link>
+      <title>Tag :: Vim</title>
+      <link>https://robsonfvilela.github.io/tags/vim/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://robsonfvilela.github.io/tags/vim/</guid>
+      <guid>https://robsonfvilela.github.io/tags/vim/index.html</guid>
       <description></description>
     </item>
   </channel>

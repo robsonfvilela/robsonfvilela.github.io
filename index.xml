@@ -1,103 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bem-vindo! on Robson</title>
-    <link>https://robsonfvilela.github.io/</link>
-    <description>Recent content in Bem-vindo! on Robson</description>
+    <title>Bem-vindo! :: Robson</title>
+    <link>https://robsonfvilela.github.io/index.html</link>
+    <description>Bem-vindo!</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 20 Nov 2025 00:37:45 -0300</lastBuildDate>
     <atom:link href="https://robsonfvilela.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Meu Terceiro Post</title>
-      <link>https://robsonfvilela.github.io/meu-terceiro-post/</link>
+      <title>Posts</title>
+      <link>https://robsonfvilela.github.io/posts/index.html</link>
       <pubDate>Thu, 20 Nov 2025 00:37:45 -0300</pubDate>
-      <guid>https://robsonfvilela.github.io/meu-terceiro-post/</guid>
+      <guid>https://robsonfvilela.github.io/posts/index.html</guid>
       <description></description>
     </item>
     <item>
-      <title>Meu Segundo Post</title>
-      <link>https://robsonfvilela.github.io/meu-segundo-post/</link>
-      <pubDate>Thu, 20 Nov 2025 00:18:44 -0300</pubDate>
-      <guid>https://robsonfvilela.github.io/meu-segundo-post/</guid>
-      <description>&lt;p&gt;lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sit amet accumsan arcu. Proin ac consequat arcu. Maecenas et sem vel massa tempor egestas. Donec non justo sed elit efficitur luctus. Sed at felis semper, elementum erat a, varius quam. Vivamus euismod, nisi vel consectetur interdum, nisl nisi aliquet nunc, quis gravida nunc nisl in mauris. Curabitur euismod, nisl vel consectetur interdum, nisl nisi aliquet nunc, quis gravida nunc nisl in mauris.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Meu Primeiro Post</title>
-      <link>https://robsonfvilela.github.io/meu-primeiro-post/</link>
-      <pubDate>Wed, 19 Nov 2025 23:39:26 -0300</pubDate>
-      <guid>https://robsonfvilela.github.io/meu-primeiro-post/</guid>
+      <title>.config</title>
+      <link>https://robsonfvilela.github.io/config/index.html</link>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://robsonfvilela.github.io/config/index.html</guid>
       <description></description>
     </item>
     <item>
       <title>About Me</title>
-      <link>https://robsonfvilela.github.io/about/</link>
+      <link>https://robsonfvilela.github.io/about/index.html</link>
       <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://robsonfvilela.github.io/about/</guid>
+      <guid>https://robsonfvilela.github.io/about/index.html</guid>
       <description></description>
     </item>
     <item>
-      <title>Hugo</title>
-      <link>https://robsonfvilela.github.io/terminal/hugo/</link>
+      <title>Terminal</title>
+      <link>https://robsonfvilela.github.io/terminal/index.html</link>
       <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://robsonfvilela.github.io/terminal/hugo/</guid>
-      <description>&lt;p&gt;Documentação de referência para gerenciar este blog.&lt;/p&gt;</description>
+      <guid>https://robsonfvilela.github.io/terminal/index.html</guid>
+      <description>Terminal</description>
     </item>
     <item>
-      <title>Comandos</title>
-      <link>https://robsonfvilela.github.io/terminal/terminal/</link>
+      <title>Linux</title>
+      <link>https://robsonfvilela.github.io/linux/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://robsonfvilela.github.io/terminal/terminal/</guid>
-      <description>&lt;h2 id=&#34;comando-divertidos&#34;&gt;Comando divertidos&lt;/h2&gt;</description>
+      <guid>https://robsonfvilela.github.io/linux/index.html</guid>
+      <description>Linux</description>
     </item>
     <item>
-      <title>Configuração do MacOS</title>
-      <link>https://robsonfvilela.github.io/macos/configuracao_mac/</link>
+      <title>MacOS</title>
+      <link>https://robsonfvilela.github.io/macos/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://robsonfvilela.github.io/macos/configuracao_mac/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Configuração do Manjaro</title>
-      <link>https://robsonfvilela.github.io/linux/manjaro_conf/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://robsonfvilela.github.io/linux/manjaro_conf/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>GIT</title>
-      <link>https://robsonfvilela.github.io/terminal/git/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://robsonfvilela.github.io/terminal/git/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Kitty</title>
-      <link>https://robsonfvilela.github.io/config/kitty/kitty/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://robsonfvilela.github.io/config/kitty/kitty/</guid>
-      <description>&lt;p&gt;Arquivo de configuração do terminal Kitty.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>NeoVim</title>
-      <link>https://robsonfvilela.github.io/config/nvim/nvim/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://robsonfvilela.github.io/config/nvim/nvim/</guid>
-      <description>&lt;p&gt;Arquivo de configuração do Neovim, com LazyVim e algumas customizações.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Vim Keys</title>
-      <link>https://robsonfvilela.github.io/terminal/vim-keys/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://robsonfvilela.github.io/terminal/vim-keys/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>ZSH</title>
-      <link>https://robsonfvilela.github.io/config/zsh/zshrc/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://robsonfvilela.github.io/config/zsh/zshrc/</guid>
-      <description>&lt;p&gt;Arquivo de configuração do ZSH.&lt;/p&gt;</description>
+      <guid>https://robsonfvilela.github.io/macos/index.html</guid>
+      <description>MacOS</description>
     </item>
   </channel>
 </rss>

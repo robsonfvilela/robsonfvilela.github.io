@@ -1,84 +1,117 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://robsonfvilela.github.io/meu-terceiro-post/</loc>
+    <loc>https://robsonfvilela.github.io/meu-terceiro-post/index.html</loc>
     <lastmod>2025-11-20T00:37:45-03:00</lastmod>
-  </url><url>
-    <loc>https://robsonfvilela.github.io/posts/</loc>
+  </url>
+  <url>
+    <loc>https://robsonfvilela.github.io/posts/index.html</loc>
     <lastmod>2025-11-20T00:37:45-03:00</lastmod>
-  </url><url>
-    <loc>https://robsonfvilela.github.io/meu-segundo-post/</loc>
+  </url>
+  <url>
+    <loc>https://robsonfvilela.github.io/meu-segundo-post/index.html</loc>
     <lastmod>2025-11-20T00:18:44-03:00</lastmod>
-  </url><url>
-    <loc>https://robsonfvilela.github.io/meu-primeiro-post/</loc>
+  </url>
+  <url>
+    <loc>https://robsonfvilela.github.io/meu-primeiro-post/index.html</loc>
     <lastmod>2025-11-19T23:39:26-03:00</lastmod>
-  </url><url>
-    <loc>https://robsonfvilela.github.io/config/</loc>
+  </url>
+  <url>
+    <loc>https://robsonfvilela.github.io/config/index.html</loc>
     <lastmod>2025-11-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://robsonfvilela.github.io/tags/about/</loc>
+  </url>
+  <url>
+    <loc>https://robsonfvilela.github.io/tags/about/index.html</loc>
     <lastmod>2025-11-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://robsonfvilela.github.io/about/</loc>
+  </url>
+  <url>
+    <loc>https://robsonfvilela.github.io/about/index.html</loc>
     <lastmod>2025-11-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://robsonfvilela.github.io/tags/config/</loc>
+  </url>
+  <url>
+    <loc>https://robsonfvilela.github.io/tags/config/index.html</loc>
     <lastmod>2025-11-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://robsonfvilela.github.io/tags/personal/</loc>
+  </url>
+  <url>
+    <loc>https://robsonfvilela.github.io/tags/personal/index.html</loc>
     <lastmod>2025-11-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://robsonfvilela.github.io/tags/</loc>
+  </url>
+  <url>
+    <loc>https://robsonfvilela.github.io/tags/index.html</loc>
     <lastmod>2025-11-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://robsonfvilela.github.io/</loc>
+  </url>
+  <url>
+    <loc>https://robsonfvilela.github.io/index.html</loc>
     <lastmod>2024-06-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://robsonfvilela.github.io/tags/hugo/</loc>
+  </url>
+  <url>
+    <loc>https://robsonfvilela.github.io/tags/hugo/index.html</loc>
     <lastmod>2024-06-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://robsonfvilela.github.io/terminal/hugo/</loc>
+  </url>
+  <url>
+    <loc>https://robsonfvilela.github.io/terminal/hugo/index.html</loc>
     <lastmod>2024-06-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://robsonfvilela.github.io/terminal/</loc>
+  </url>
+  <url>
+    <loc>https://robsonfvilela.github.io/tags/terminal/index.html</loc>
     <lastmod>2024-06-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://robsonfvilela.github.io/tags/terminal/</loc>
+  </url>
+  <url>
+    <loc>https://robsonfvilela.github.io/terminal/index.html</loc>
     <lastmod>2024-06-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://robsonfvilela.github.io/categories/</loc>
-  </url><url>
-    <loc>https://robsonfvilela.github.io/terminal/terminal/</loc>
-  </url><url>
-    <loc>https://robsonfvilela.github.io/macos/configuracao_mac/</loc>
-  </url><url>
-    <loc>https://robsonfvilela.github.io/linux/manjaro_conf/</loc>
-  </url><url>
-    <loc>https://robsonfvilela.github.io/tags/fun/</loc>
-  </url><url>
-    <loc>https://robsonfvilela.github.io/tags/git/</loc>
-  </url><url>
-    <loc>https://robsonfvilela.github.io/terminal/git/</loc>
-  </url><url>
-    <loc>https://robsonfvilela.github.io/config/kitty/kitty/</loc>
-  </url><url>
-    <loc>https://robsonfvilela.github.io/linux/</loc>
-  </url><url>
-    <loc>https://robsonfvilela.github.io/tags/linux/</loc>
-  </url><url>
-    <loc>https://robsonfvilela.github.io/tags/mac/</loc>
-  </url><url>
-    <loc>https://robsonfvilela.github.io/macos/</loc>
-  </url><url>
-    <loc>https://robsonfvilela.github.io/config/nvim/nvim/</loc>
-  </url><url>
-    <loc>https://robsonfvilela.github.io/tags/tutorial/</loc>
-  </url><url>
-    <loc>https://robsonfvilela.github.io/tags/vim/</loc>
-  </url><url>
-    <loc>https://robsonfvilela.github.io/terminal/vim-keys/</loc>
-  </url><url>
-    <loc>https://robsonfvilela.github.io/config/zsh/zshrc/</loc>
+  </url>
+  <url>
+    <loc>https://robsonfvilela.github.io/categories/index.html</loc>
+  </url>
+  <url>
+    <loc>https://robsonfvilela.github.io/terminal/terminal/index.html</loc>
+  </url>
+  <url>
+    <loc>https://robsonfvilela.github.io/linux/manjaro_conf/index.html</loc>
+  </url>
+  <url>
+    <loc>https://robsonfvilela.github.io/macos/configuracao_mac/index.html</loc>
+  </url>
+  <url>
+    <loc>https://robsonfvilela.github.io/tags/fun/index.html</loc>
+  </url>
+  <url>
+    <loc>https://robsonfvilela.github.io/tags/git/index.html</loc>
+  </url>
+  <url>
+    <loc>https://robsonfvilela.github.io/terminal/git/index.html</loc>
+  </url>
+  <url>
+    <loc>https://robsonfvilela.github.io/macos/app_mac/index.html</loc>
+  </url>
+  <url>
+    <loc>https://robsonfvilela.github.io/config/kitty/kitty/index.html</loc>
+  </url>
+  <url>
+    <loc>https://robsonfvilela.github.io/linux/index.html</loc>
+  </url>
+  <url>
+    <loc>https://robsonfvilela.github.io/tags/linux/index.html</loc>
+  </url>
+  <url>
+    <loc>https://robsonfvilela.github.io/tags/mac/index.html</loc>
+  </url>
+  <url>
+    <loc>https://robsonfvilela.github.io/macos/index.html</loc>
+  </url>
+  <url>
+    <loc>https://robsonfvilela.github.io/config/nvim/nvim/index.html</loc>
+  </url>
+  <url>
+    <loc>https://robsonfvilela.github.io/tags/tutorial/index.html</loc>
+  </url>
+  <url>
+    <loc>https://robsonfvilela.github.io/tags/vim/index.html</loc>
+  </url>
+  <url>
+    <loc>https://robsonfvilela.github.io/terminal/vim-keys/index.html</loc>
+  </url>
+  <url>
+    <loc>https://robsonfvilela.github.io/config/zsh/zshrc/index.html</loc>
   </url>
 </urlset>
