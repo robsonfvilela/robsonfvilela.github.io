@@ -19,29 +19,29 @@
     <meta property="article:tag" content="Git">
     <meta property="article:tag" content="Personal">
     <meta itemprop="name" content="GIT :: Robson">
-    <meta itemprop="wordCount" content="918">
+    <meta itemprop="wordCount" content="992">
     <meta itemprop="keywords" content="Terminal,Git,Personal">
     <title>GIT :: Robson</title>
-    <link href="/css/auto-complete/auto-complete.min.css?1765543983" rel="stylesheet">
-    <script src="/js/auto-complete/auto-complete.min.js?1765543983" defer></script>
-    <script src="/js/search-lunr.min.js?1765543983" defer></script>
-    <script src="/js/search.min.js?1765543983" defer></script>
+    <link href="/css/auto-complete/auto-complete.min.css?1765544637" rel="stylesheet">
+    <script src="/js/auto-complete/auto-complete.min.js?1765544637" defer></script>
+    <script src="/js/search-lunr.min.js?1765544637" defer></script>
+    <script src="/js/search.min.js?1765544637" defer></script>
     <script>
       window.relearn = window.relearn || {};
-      window.relearn.index_js_url="/searchindex.en.js?1765543983";
+      window.relearn.index_js_url="/searchindex.en.js?1765544637";
     </script>
-    <script src="/js/lunr/lunr.min.js?1765543983" defer></script>
-    <script src="/js/lunr/lunr.stemmer.support.min.js?1765543983" defer></script>
-    <script src="/js/lunr/lunr.multi.min.js?1765543983" defer></script>
-    <script src="/js/lunr/lunr.en.min.js?1765543983" defer></script>
+    <script src="/js/lunr/lunr.min.js?1765544637" defer></script>
+    <script src="/js/lunr/lunr.stemmer.support.min.js?1765544637" defer></script>
+    <script src="/js/lunr/lunr.multi.min.js?1765544637" defer></script>
+    <script src="/js/lunr/lunr.en.min.js?1765544637" defer></script>
     <script>
       window.relearn = window.relearn || {};
       window.relearn.contentLangs=['en'];
     </script>
-    <link href="/fonts/fontawesome/css/fontawesome-all.min.css?1765543983" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/fonts/fontawesome/css/fontawesome-all.min.css?1765543983" rel="stylesheet"></noscript>
-    <link href="/css/perfect-scrollbar/perfect-scrollbar.min.css?1765543983" rel="stylesheet">
-    <link href="/css/theme.min.css?1765543983" rel="stylesheet">
-    <link href="/css/format-html.min.css?1765543983" rel="stylesheet" id="R-format-style">
+    <link href="/fonts/fontawesome/css/fontawesome-all.min.css?1765544637" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/fonts/fontawesome/css/fontawesome-all.min.css?1765544637" rel="stylesheet"></noscript>
+    <link href="/css/perfect-scrollbar/perfect-scrollbar.min.css?1765544637" rel="stylesheet">
+    <link href="/css/theme.min.css?1765544637" rel="stylesheet">
+    <link href="/css/format-html.min.css?1765544637" rel="stylesheet" id="R-format-style">
     <script>
       window.relearn = window.relearn || {};
       // configuration
@@ -111,6 +111,8 @@
                 <div class="topbar-content-wrapper">
 <nav class="TableOfContents">
   <ul>
+    <li><a href="#configurar">Configurar</a></li>
+    <li><a href="#chave-ssh-no-github">Chave SSH no GitHub</a></li>
     <li><a href="#comandos-básicos-do-git">Comandos básicos do Git</a>
       <ul>
         <li><a href="#git-init"><code>git init</code></a></li>
@@ -200,6 +202,23 @@
 
 <h1 id="git">GIT</h1>
 
+<h2 id="configurar">Configurar<span class="btn cstyle anchor copyanchor scrollanchor link noborder notitle interactive"><button type="button" title="Copy link to clipboard"><i class="fa-fw fas fa-link fa-lg"></i></button></span></h2>
+<h2 id="chave-ssh-no-github">Chave SSH no GitHub<span class="btn cstyle anchor copyanchor scrollanchor link noborder notitle interactive"><button type="button" title="Copy link to clipboard"><i class="fa-fw fas fa-link fa-lg"></i></button></span></h2>
+<p><strong>Verificar se existe Chave SSH no seu sistema:</strong></p>
+<div class="highlight actionbar-wrapper wrap-code" dir="auto"><pre tabindex="0" class="chroma"><code class="language-sh" data-lang="sh"><span class="line"><span class="cl">ls -al ~/.ssh</span></span></code></pre></div>
+<p><strong>Gerar chave SSH</strong></p>
+<div class="highlight actionbar-wrapper wrap-code" dir="auto"><pre tabindex="0" class="chroma"><code class="language-sh" data-lang="sh"><span class="line"><span class="cl">ssh-keygen -t ed25519 -C <span class="s2">&#34;usuario@email.com&#34;</span></span></span></code></pre></div>
+<p><strong>Agent pid</strong></p>
+<div class="highlight actionbar-wrapper wrap-code" dir="auto"><pre tabindex="0" class="chroma"><code class="language-sh" data-lang="sh"><span class="line"><span class="cl"><span class="nb">eval</span> <span class="s2">&#34;</span><span class="k">$(</span>ssh-agent -s<span class="k">)</span><span class="s2">&#34;</span></span></span></code></pre></div>
+<p><strong>Se aparecer a mensagem de que a chave SSH está <em>to open</em>, mude a permissão:</strong></p>
+<div class="highlight actionbar-wrapper wrap-code" dir="auto"><pre tabindex="0"><code class="language-ssh" data-lang="ssh">chmod 600 ~/.ssh/id_ed25519</code></pre></div>
+<p><strong>Ler a chave SSH e adicionar ao GitHub:</strong></p>
+<p>Ler:</p>
+<div class="highlight actionbar-wrapper wrap-code" dir="auto"><pre tabindex="0" class="chroma"><code class="language-sh" data-lang="sh"><span class="line"><span class="cl">cat id_ed25519.pub</span></span></code></pre></div>
+<p>Adicionar</p>
+<ul>
+<li>Settings &gt; SSH and GPG Keys &gt; New SSH Key &gt; Key type: Authentication Key</li>
+</ul>
 <h2 id="comandos-básicos-do-git">Comandos básicos do Git<span class="btn cstyle anchor copyanchor scrollanchor link noborder notitle interactive"><button type="button" title="Copy link to clipboard"><i class="fa-fw fas fa-link fa-lg"></i></button></span></h2>
 <h3 id="git-init"><code>git init</code><span class="btn cstyle anchor copyanchor scrollanchor link noborder notitle interactive"><button type="button" title="Copy link to clipboard"><i class="fa-fw fas fa-link fa-lg"></i></button></span></h3>
 <p>Inicia um novo repositório Git em um diretório.</p>
@@ -420,8 +439,8 @@ Para iniciar o processo de bissecção:</p>
 <div id="R-footer" class="default-animation"><p>Built with <a href="https://github.com/McShelby/hugo-theme-relearn" title="love"><i class="fas fa-heart"></i></a> by <a href="https://gohugo.io/">Hugo</a></p></div>
       </div>
     </aside>
-    <script src="/js/perfect-scrollbar/perfect-scrollbar.min.js?1765543983" defer></script>
-    <script src="/js/theme.min.js?1765543983" defer></script>
+    <script src="/js/perfect-scrollbar/perfect-scrollbar.min.js?1765544637" defer></script>
+    <script src="/js/theme.min.js?1765544637" defer></script>
     <div id="toast-container" role="status" aria-live="polite" aria-atomic="false"></div>
   </body>
 </html>
